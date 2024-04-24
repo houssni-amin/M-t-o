@@ -1,1 +1,1 @@
-# Méteo
+# Méteo pour smartphone
